@@ -8,3 +8,12 @@
   3. Inserir senha válida.  
   4. Clicar no botão "Entrar".  
 - **Resultado Esperado:** O usuário é redirecionado para a página inicial. 
+
+## Caso 02: Login com senha incorreta
+- **Pré-condição:** Usuário cadastrado no sistema.  
+- **Passos:**  
+  1. Acessar a página de login.  
+  2. Inserir e-mail válido.  
+  3. Inserir senha incorreta.  
+  4. Clicar no botão "Entrar".  
+- **Resultado Esperado:** O sistema exibe a mensagem "Senha incorreta".  
